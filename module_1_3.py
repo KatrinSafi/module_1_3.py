@@ -1,10 +1,10 @@
-name = "Ekaterina"
-print (name, type (name))
+name ="Ekaterina"
+print (name)
 age = 36
-print (age, type (age))
-new_age = 36 + 2
-print(new_age, type (age))
+print (age)
+new_age = 36 + 1
+print (new_age)
 name = "Is_Student"
-print (name,type (name))
+print (name)
 name = True
-print (name, type (name))
+print (name)
